@@ -1,0 +1,24 @@
+{
+  "advertising": [
+    { "id": 1, "url": "https://s.mlcdn.com.br/banner/campanhas/0705_Promo_Destaque_OfertaTV.png" },
+    { "id": 2, "url": "https://s.mlcdn.com.br/banner/campanhas/2305deskdiageek.png" },
+    { "id": 3, "url": "https://s.mlcdn.com.br/banner/campanhas/2305deskdiadocafe.png" },
+    { "id": 4, "url": "https://s.mlcdn.com.br/banner/campanhas/2001deskpiscouchegouv2.png" },
+    { "id": 5, "url": "https://s.mlcdn.com.br/banner/campanhas/0605_MagaluAds_Destaque_IntelVaio.png" },
+    { "id": 6, "url": "https://s.mlcdn.com.br/banner/campanhas/1905_MagaluAds_Destaque_Microsoft250k.png" },
+    { "id": 7, "url": "https://s.mlcdn.com.br/banner/campanhas/2904deskmercadov2.png" },
+    { "id": 8, "url": "https://s.mlcdn.com.br/banner/campanhas/0104deskparceiromagaluselv2.png" },
+  ],
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
